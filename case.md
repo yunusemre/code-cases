@@ -1,5 +1,3 @@
-// code çıktısı
-1- 
 ```|
 function kullaniciOlustur() {
   return {
